@@ -5,5 +5,8 @@ pipeline {
       stage('print hello') {
         hello()
       }
+    stage('print hello') {
+        printName("selva","Friday")
+      }
     }
 }
