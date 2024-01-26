@@ -1,2 +1,2 @@
 # jenkins
-This repo is holding jenkins related tasks
+This repo is holding jenkins related tasks and understandings.
