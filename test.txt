@@ -1,2 +1,2 @@
-testing git rebase and merge in real
+testing git rebase and merge
 
